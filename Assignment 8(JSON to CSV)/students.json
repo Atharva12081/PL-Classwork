@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Priya Nair",
+        "section": "B",
+        "age": 20,
+        "marks": 82
+    },
+    {
+        "name": "Marcus Chen",
+        "section": "B",
+        "age": 19,
+        "marks": 91
+    },
+    {
+        "name": "Sofia Okonkwo",
+        "section": "A",
+        "age": 21,
+        "marks": 76
+    },
+    {
+        "name": "Diego Alvarez",
+        "section": "A",
+        "age": 22,
+        "marks": 88
+    },
+    {
+        "name": "Amara Osei",
+        "section": "B",
+        "age": 20,
+        "marks": 94
+    },
+    {
+        "name": "Yuki Tanaka",
+        "section": "A",
+        "age": 21,
+        "marks": 79
+    }
+]
