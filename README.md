@@ -1,6 +1,6 @@
 ⚠️ Notice Regarding Original Submission
 
-##This note is for Prof. Rinku Badgujar.##
+This note is for Prof. Rinku Badgujar.
 
 Due to a security issue, I am no longer able to access or manage my original GitHub account. As a result, I cannot make any updates or modifications to the original repository.
 
